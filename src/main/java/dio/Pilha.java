@@ -51,8 +51,8 @@ public class Pilha {
 			} else {
 				break;
 			}
-			stringRetorno += "===============\n";
 		}
+		stringRetorno += "===============\n";
 		return stringRetorno;
 	}
 }
